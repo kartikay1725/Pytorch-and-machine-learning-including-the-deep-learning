@@ -6,4 +6,3 @@ To view the complete file, please visit the following link:
 
 [Click here to view the file]https://colab.research.google.com/drive/19p7swCVy55Kds73C31ZCyKk2yDZdCKbF?usp=sharing
 
-**Note:** Please replace `https://your-link-goes-here.com` with the actual URL to your file.
